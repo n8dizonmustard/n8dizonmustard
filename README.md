@@ -7,6 +7,7 @@
 * MongoDB
 * Node
 * Express
+
 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/nathaniel-dizon/)! I'd love to connect.
 
 <!---
