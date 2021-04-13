@@ -7,6 +7,9 @@
 * MongoDB
 * Node
 * Express
+* Python
+* Django
+* React
 
 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/nathaniel-dizon/)! I'd love to connect.
 
